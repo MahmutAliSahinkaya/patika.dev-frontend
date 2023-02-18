@@ -1,0 +1,27 @@
+body{
+    background-color: #AD8E70;
+    text-align: center;
+    
+}
+h1{
+    background-color: #243763;
+    text-align: center;
+    color: #FFEBB7;
+    font-size: 30px;
+}
+a{
+    background-color: #FF6E31;
+    color: #e2ca8b;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 30px;
+}
+h2{
+    font-size: 25px;
+    color: #3E6D9C;
+}
+li{
+    font-size: 25px;
+    color: #FF6D28;
+    list-style-position: inside;
+}
