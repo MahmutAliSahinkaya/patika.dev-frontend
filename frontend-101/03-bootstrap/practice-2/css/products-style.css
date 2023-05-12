@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: #E9ECEF;
+}
+
+h1{
+    color:red;
+    font-size:60px;
+}
+
+h3{
+    font-size: 35;
+    color: red;
+}
+
+ul{
+    font-size: 25px;
+}
+
+p{
+  font-size: 20px;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    }
+.margin{
+    margin-left: 100px;
+    margin-right: 100px;
+}
